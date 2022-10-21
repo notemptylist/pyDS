@@ -1,10 +1,13 @@
 beautifulsoup4
+chart_studio
+cufflinks
 ipykernel
 jupyter
 matplotlib==3.6.0
+nltk
 numpy
 pandas
+plotly
 requests
-scipy
 scikit-learn
-nltk
+scipy
